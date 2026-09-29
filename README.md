@@ -1,5 +1,4 @@
 # Disability Intuition Detection Authorized Testbed
-# Disability Intuition Detection Authorized Testbed
 # 残疾人直觉检测授权靶场
 
 Lesson 2: Intuition model training, real-time inference, and feedback integration
